@@ -1,0 +1,34 @@
+body {
+  background: #ac00e6;
+  cursor: url('http://img.stockfresh.com/files/m/mikemcd/x/46/1789819_57132556.jpg'), auto;
+}
+
+h1 {
+  color: #600080;
+  font-size:40px;
+  background: #ff0000;
+  font-family: Cursive;
+}  
+
+p{
+  color:#00ff00;
+  font-size:30px;
+  background: #000099;
+}
+
+h1:hover{
+  background: #ffff00;
+  font-size: 50px;
+  font-family: Impact;
+}
+
+p:hover{
+  background: #cc33ff;}
+
+
+div {
+  background: #1affd1;
+  hover:#ff66ff;
+  border:30px double #1a1aff;
+}
+
