@@ -201,11 +201,11 @@ $(document).ready(function() {
    
      //Move Trashcan
    function moveTrashcanRight() {
-    $("#Trashcan").animate({left: "+=800"}, 2000, moveTrashcanLeft);
+    $("#Trashcan").animate({left: "+=800"}, 4000, moveTrashcanLeft);
   }
   
    function moveTrashcanLeft() { 
-    $("#Trashcan").animate({left: "-=800"}, 2000, moveTrashcanRight);  
+    $("#Trashcan").animate({left: "-=800"}, 4000, moveTrashcanRight);  
   }
   
   moveTrashcanRight();
