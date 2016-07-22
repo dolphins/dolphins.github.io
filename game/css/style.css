@@ -1,0 +1,97 @@
+
+body{
+background-image: url('http://www.toonpool.com/user/506/files/robots_39235.jpg') ;
+  background-size:cover;
+  background-repeat: no-repeat;
+  cursor:url('http://www.free-icons-download.net/images/robot-icon-12636.png'), auto;
+  text-align:center;
+}
+
+button {
+  font-size: 40px;
+}
+
+button:hover {
+   background:#4d4d4d;
+}
+
+p{
+  color: #9900cc;
+  background:
+ #999999;
+}
+
+h1{
+  color:
+ #ff3355;
+}
+
+h2{
+   color:
+ #ff3355;
+}
+
+#robot1 {
+  position: absolute;
+ width:20%; 
+}
+
+#robot2 {
+  width:20%;
+  position: absolute;
+  left: 300px;
+}
+  
+#robot3 {
+  position: absolute;
+width:20%;
+  left:550px;
+}
+
+#rabbit1{
+  position: absolute;
+  width: 20%;
+  left: 700px;
+  
+}
+
+#rabbit2{
+width: 20%;
+  position: absolute;
+  top: 400px;
+  left:: 300px;
+}
+
+#rabbit3{
+width:20%; 
+  position: absolute;
+  top: 400px;
+  left: 400px;
+}
+
+#panda1{
+  width:20%;  
+    position: absolute;
+  top: 400px;
+  left: 500px;
+}
+
+#panda2{
+position: absolute;
+   width:20% ;
+  top: 600px;
+  left: 700px;
+}
+
+#panda3{
+ position: absolute;
+  width:20% ;
+  left: 900px;
+  top: 300px;
+}
+
+#Trashcan{
+  width:10%;
+  position: absolute;
+  top: 500px;
+}
